@@ -12,6 +12,7 @@ Főoldal : Jani
 			- Top 10 (2024) - Balázs
 			- pontok  - András
 			- versenyek + időpontok - Jani
+			- szabályok - Balázs
 	
 	Szorgalmi:
 	JavaScript - Jani

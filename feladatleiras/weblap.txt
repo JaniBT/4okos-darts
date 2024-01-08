@@ -1,0 +1,15 @@
+Feladat:
+
+	Weblap:
+		* 2-3 fős csoport
+		* Téma - Darts
+			- története
+			- kiszállók
+			- tábla fajta
+			- nyilak
+			- Top 10 (2024)
+			- pontok
+			- versenyek + időpontok
+	
+	Szorgalmi:
+		Js - számláló 501-ről

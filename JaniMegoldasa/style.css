@@ -1,11 +1,11 @@
 @import url('https://fonts.cdnfonts.com/css/bebas-neue');
 
 body{
-    background-color: #121212;
+    background-color: hsl(0, 0%, 10%);
 }
 
 .focim{
-    font-size: 65px;
+    font-size: 52px;
     letter-spacing: 20px;
     font-weight: bold;
     font-family: 'Bebas Neue', sans-serif;
@@ -23,7 +23,7 @@ h1{
 }
 
 nav{
-    background-color: #121212;
+    background-color: hsl(0, 0%, 10%);
 }
 
 .navbar-toggler-icon{
@@ -31,6 +31,74 @@ nav{
 }
 
 nav a:hover{
-    color: aqua;
+    color: red;
     text-decoration: none;
+}
+
+.nav a{
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Bebas Neue' sans-serif;
+    font-weight: bold;
+}
+
+.nav a:hover{
+    color: red;
+}
+
+.carousel-item img {
+    max-height: 550px;
+    margin: auto;
+}
+
+.nav-border-top {
+    border-bottom: 1px solid gray;
+}
+
+.container-with-border {
+    border-right: 3px solid gray;
+    padding-right: 15px; 
+}
+
+.nav-with-borders {
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+
+h2{
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#fooldal-szoveg{
+    color: #fff;
+    text-align: justify;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: hsl(0, 0%, 70%);
+}
+
+#darts-youtube-link{
+    text-decoration: none;
+    color: hsl(0, 0%, 70%);   
+}
+
+#darts-youtube-link:hover{
+    color: red;
+}
+
+#darts-linkek{
+    text-decoration: none;
+    color: yellow;
+}
+
+#darts-linkek:hover{
+    color: red;
 }

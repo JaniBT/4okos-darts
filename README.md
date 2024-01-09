@@ -1,5 +1,5 @@
-# 3okos-darts
- 3okos Darts Projektje
+# 4okos-darts
+ 4okos Darts Projektje
 
 ## A projektben résztvevői:
  - Vásári András (H. András)

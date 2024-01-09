@@ -5,14 +5,14 @@ Főoldal : Jani
 	Weblap:
 		* 2-3 fős csoport
 		* Téma - Darts
-			- története - Balázs
-			- kiszállók - András
+			- története - Balázs --- készül
+			- kiszállók - András 
 			- tábla fajta - Balázs
-			- nyilak - András
+			- nyilak - András --- készül
 			- Top 10 (2024) - Balázs
 			- pontok  - András
-			- versenyek + időpontok - Jani
-			- szabályok - Balázs
+			- versenyek + időpontok - Dani
+			- szabályok - Dani
 	
 	Szorgalmi:
 	JavaScript - Jani

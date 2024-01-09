@@ -1,18 +1,25 @@
 @import url('https://fonts.cdnfonts.com/css/bebas-neue');
 
 body{
-    
+    background-color: #121212;
 }
 
 .focim{
-    font-size: xx-large;
-    letter-spacing: 10px;
+    font-size: 65px;
+    letter-spacing: 20px;
     font-weight: bold;
     font-family: 'Bebas Neue', sans-serif;
 }
 
 nav a{
     color: #fff;
+}
+
+h1{
+    color: aqua;
+    font-family: 'Bebas Neue' sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
 }
 
 nav{

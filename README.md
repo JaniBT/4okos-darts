@@ -5,3 +5,4 @@
  - Vásári András (H. András)
  - Csordás János (Jankó)
  - Koós Balázs Bence (Bazsi)
+ - Szántó Dániel (Dankó)

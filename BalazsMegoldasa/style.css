@@ -1,12 +1,10 @@
 body{
     text-align: justify;
     font-size: 25px;
-    /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
-    font-family: 'Bebas Neue', sans-serif;
-
-    /* background-color: hsl(0, 0%, 10%); */
-    /* color: hsl(0, 0%, 70%); */
-    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    /* font-family: 'Bebas Neue', sans-serif; */    
+    background-color: hsl(0, 0%, 10%);
+    color: hsl(0, 0%, 70%);
 }
 .main{
     margin: auto;
@@ -21,5 +19,11 @@ h1, h2{
     padding: 20px;
     font-size: 80px;
     font-weight: 700;
-    text-align: center;
+    /* text-align: center; */
+}
+
+hr{
+    border-color: hsl(208, 100%, 97%);
+    border: 2px solid;
+    margin: 20px auto;
 }

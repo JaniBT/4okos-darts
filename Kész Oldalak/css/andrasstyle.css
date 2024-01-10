@@ -2,7 +2,8 @@ body{
     text-align: justify;
     font-size: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif; 
-    font-family: 'Bebas Neue', sans-serif;
+    max-width: 1000px;
+    margin: 0;
     margin-left: 75px;
     margin-right: 75px;
     cursor: url(https://cur.cursors-4u.net/others/oth-1/oth80.cur), auto !important;
@@ -34,3 +35,12 @@ button {
     width: 500px;
 }
 
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: hsl(0, 0%, 70%);
+}

@@ -76,3 +76,14 @@ nav a:hover{
 .nav a:hover{
     color: red;
 }
+
+#footer{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    font-size: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: hsl(0, 0%, 70%);
+}

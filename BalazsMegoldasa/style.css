@@ -5,6 +5,8 @@ body{
     /* font-family: 'Bebas Neue', sans-serif; */    
     background-color: hsl(0, 0%, 10%);
     color: hsl(0, 0%, 70%);
+    max-width: 1000px;
+    margin: auto;
 }
 .main{
     margin: auto;
@@ -19,7 +21,11 @@ h1, h2{
     padding: 20px;
     font-size: 80px;
     font-weight: 700;
-    /* text-align: center; */
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
 }
 
 hr{

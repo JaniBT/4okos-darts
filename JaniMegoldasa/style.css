@@ -3,6 +3,8 @@
 body{
     background-color: hsl(0, 0%, 10%);
     cursor: url(https://cur.cursors-4u.net/others/oth-1/oth80.cur), auto !important;
+    max-width: 1000px;
+    margin: auto;
 }
 
 .focim{
@@ -102,4 +104,8 @@ ul{
 
 #darts-linkek:hover{
     color: red;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.1);
 }

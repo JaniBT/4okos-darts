@@ -10,8 +10,8 @@ Főoldal : Jani
 			- tábla fajta - Balázs --- kész
 			- nyilak - András --- kész
 			- Top 10 (2024) - Jani --- készül
-			- versenyek + időpontok - Dani
-			- szabályok - Dani -- készül
+			- versenyidőpontok - Dani
+			- szabályok - Dani --- készül
 	
 	Szorgalmi:
 	JavaScript - Jani

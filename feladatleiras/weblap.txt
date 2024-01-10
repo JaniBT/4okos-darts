@@ -17,3 +17,6 @@ Főoldal : Jani
 	Szorgalmi:
 	JavaScript - Jani
 		Js - számláló 501-ről
+
+
+weboldal head rész aljára: <link rel="icon" type="image/x-icon" href="./assets/icons8-dart-64.png">

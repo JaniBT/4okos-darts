@@ -5,7 +5,7 @@ body{
     font-family: 'Bebas Neue', sans-serif;
     margin-left: 75px;
     margin-right: 75px;
-
+    cursor: url(https://cur.cursors-4u.net/others/oth-1/oth80.cur), auto !important;
     background-color: hsl(0, 0%, 10%);
     color: hsl(0, 0%, 70%);
     font-size: 20px;

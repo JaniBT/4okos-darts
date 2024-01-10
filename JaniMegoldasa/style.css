@@ -113,3 +113,7 @@ ul{
 .carousel-caption {
     background-color: rgba(0, 0, 0, 0.1);
 }
+
+#statisztika-szoveg{
+    color: hsl(0, 0%, 70%);
+}

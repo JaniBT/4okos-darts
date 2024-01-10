@@ -13,10 +13,16 @@ body{
     padding: 20px;
     font-size: 25px;
 }
+
 h1{
     padding: 25px;
     text-align: center;
+    font-family: 'Bebas Neue', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: hsl(0, 0%, 100%);
 }
+
 h1, h2{
     padding: 20px;
     font-size: 80px;
@@ -44,13 +50,6 @@ table, th, td {
 
 nav a{
     color: #fff;
-}
-
-h1{
-    color: aqua;
-    font-family: 'Bebas Neue' sans-serif;
-    text-transform: uppercase;
-    font-weight: bold;
 }
 
 nav{

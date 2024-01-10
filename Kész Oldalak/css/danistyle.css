@@ -41,7 +41,7 @@ h1{
     padding-left: 5px;
 }
 
-ul{
+#footer{
     list-style: none;
     display: flex;
     justify-content: space-between;

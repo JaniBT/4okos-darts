@@ -14,6 +14,10 @@ body{
     font-family: 'Bebas Neue', sans-serif;
 }
 
+.table{
+    color: hsl(0, 0%, 70%);
+}
+
 nav a{
     color: #fff;
 }

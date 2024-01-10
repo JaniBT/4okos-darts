@@ -19,7 +19,3 @@ Főoldal : Jani
 
 
 weboldal head rész aljára: <link rel="icon" type="image/x-icon" href="./assets/icons8-dart-64.png">
-
-rosszlanyok.hu: <div class="col-12 text-center mb-4">
-        <a href="https://rosszlanyok.hu/szexpartner?utm_source=mozinet.me&utm_medium=160x600_sp&utm_campaign=mozinet.me" target="_blank"><img src="https://filmvilag.me/style/rl1.gif" width="160" height="600" title="Rosszlanyok.hu - A szexpartner kereső" alt="Rosszlanyok.hu - A szexpartner kereső. Több száz igazi szexpartner kereső lány!!! CSAK VALÓDI KÉPEK, videók!!!" border="0"></a>
-      </div>

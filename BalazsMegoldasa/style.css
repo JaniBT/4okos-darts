@@ -41,3 +41,38 @@ table, th, td {
 .tabla{
     width: 300px;
 }
+
+nav a{
+    color: #fff;
+}
+
+h1{
+    color: aqua;
+    font-family: 'Bebas Neue' sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+nav{
+    background-color: hsl(0, 0%, 10%);
+}
+
+.navbar-toggler-icon{
+    visibility: visible;
+}
+
+nav a:hover{
+    color: red;
+    text-decoration: none;
+}
+
+.nav a{
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Bebas Neue' sans-serif;
+    font-weight: bold;
+}
+
+.nav a:hover{
+    color: red;
+}

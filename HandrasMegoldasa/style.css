@@ -3,10 +3,12 @@ body{
     font-size: 25px;
     font-family: Verdana, Geneva, Tahoma, sans-serif; 
     font-family: 'Bebas Neue', sans-serif;
+    margin-left: 75px;
+    margin-right: 75px;
 
     background-color: hsl(0, 0%, 10%);
     color: hsl(0, 0%, 70%);
-    background-color: hsl(0, 0%, 10%);
+    font-size: 20px;
 }
 .main{
     margin: auto;
@@ -23,12 +25,11 @@ h1, h2{
     font-weight: 700;
     text-align: center;
 }
-img {
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    width: 600px;
-}
-p {
     
+button {
+    margin-bottom: 30px;
+}
+
+#jobbkep {
+    width: 500px;
 }

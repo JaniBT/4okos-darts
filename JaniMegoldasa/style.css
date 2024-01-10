@@ -3,6 +3,8 @@
 body{
     background-color: hsl(0, 0%, 10%);
     cursor: url(https://cur.cursors-4u.net/others/oth-1/oth80.cur), auto !important;
+    max-width: 1000px;
+    margin: auto;
 }
 
 .focim{
@@ -10,6 +12,10 @@ body{
     letter-spacing: 20px;
     font-weight: bold;
     font-family: 'Bebas Neue', sans-serif;
+}
+
+.table{
+    color: hsl(0, 0%, 70%);
 }
 
 nav a{
@@ -20,6 +26,11 @@ h1{
     color: aqua;
     font-family: 'Bebas Neue' sans-serif;
     text-transform: uppercase;
+    font-weight: bold;
+}
+
+h2{
+    font-family: 'Bebas Neue' sans-serif;
     font-weight: bold;
 }
 
@@ -102,4 +113,12 @@ ul{
 
 #darts-linkek:hover{
     color: red;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+#statisztika-szoveg{
+    color: hsl(0, 0%, 70%);
 }

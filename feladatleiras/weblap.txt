@@ -7,12 +7,11 @@ Főoldal : Jani
 		* Téma - Darts
 			- története - Balázs --- kész
 			- kiszállók - András --- készül
-			- tábla fajta - Balázs --- készül
-			- nyilak - András --- készül
-			- Top 10 (2024) - Balázs
-			- pontok  - Jani --- készül
-			- versenyek + időpontok - Dani
-			- szabályok - Dani
+			- tábla fajta - Balázs --- kész
+			- nyilak - András --- kész
+			- Top 10 (2024) - Jani --- készül
+			- versenyidőpontok - Dani
+			- szabályok - Dani --- készül
 	
 	Szorgalmi:
 	JavaScript - Jani

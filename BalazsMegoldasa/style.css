@@ -5,6 +5,8 @@ body{
     /* font-family: 'Bebas Neue', sans-serif; */    
     background-color: hsl(0, 0%, 10%);
     color: hsl(0, 0%, 70%);
+    max-width: 1000px;
+    margin: auto;
 }
 .main{
     margin: auto;
@@ -19,7 +21,11 @@ h1, h2{
     padding: 20px;
     font-size: 80px;
     font-weight: 700;
-    /* text-align: center; */
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
 }
 
 hr{
@@ -30,4 +36,43 @@ hr{
 
 table, th, td {
     border:1px solid hsl(0, 0%, 100%);
+}
+
+.tabla{
+    width: 300px;
+}
+
+nav a{
+    color: #fff;
+}
+
+h1{
+    color: aqua;
+    font-family: 'Bebas Neue' sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+nav{
+    background-color: hsl(0, 0%, 10%);
+}
+
+.navbar-toggler-icon{
+    visibility: visible;
+}
+
+nav a:hover{
+    color: red;
+    text-decoration: none;
+}
+
+.nav a{
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Bebas Neue' sans-serif;
+    font-weight: bold;
+}
+
+.nav a:hover{
+    color: red;
 }

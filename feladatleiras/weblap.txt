@@ -1,6 +1,6 @@
 Feladat:
 
-Főoldal : Jani
+Főoldal : Jani --- kész
 
 	Weblap:
 		* 2-3 fős csoport
@@ -9,8 +9,8 @@ Főoldal : Jani
 			- kiszállók - András --- készül
 			- tábla fajta - Balázs --- kész
 			- nyilak - András --- kész
-			- Top 10 (2024) - Jani --- készül
-			- versenyidőpontok - Dani
+			- Top 10 (2024) - Jani --- kész
+			- versenyidőpontok - Dani ---
 			- szabályok - Dani --- készül
 	
 	Szorgalmi:

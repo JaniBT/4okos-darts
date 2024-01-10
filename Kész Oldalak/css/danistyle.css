@@ -1,0 +1,52 @@
+@import url('https://fonts.cdnfonts.com/css/bebas-neue');
+
+body{
+    background-color: hsl(0, 0%, 10%);
+    color: hsl(0, 0%, 70%);
+    width: 1000px;
+    margin: auto;
+    font-family: "Bebas-Neue", sans-serif;
+}
+
+h1{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+
+.asd{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#tabla2{
+    height: 200px;
+    width: 250px;
+    text-align: left;
+}
+
+#pont{
+    text-align: right;
+    padding-right: 5px;
+}
+
+#tablaertek{
+    padding-left: 5px;
+}
+
+#tablaertek2{
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: hsl(0, 0%, 70%);
+}

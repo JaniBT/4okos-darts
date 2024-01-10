@@ -27,3 +27,7 @@ hr{
     border: 2px solid;
     margin: 20px auto;
 }
+
+table, th, td {
+    border:1px solid hsl(0, 0%, 100%);
+}

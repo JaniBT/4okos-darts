@@ -9,4 +9,4 @@
 
 ---
 
-## Github Pages Weboldal: https://janibt.github.io/4okos-darts/
+## Github Pages Weboldal: [https://janibt.github.io/4okos-darts/](Link)
